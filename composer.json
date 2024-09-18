@@ -1,0 +1,22 @@
+{
+    "name": "gitt/quiz",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gitt\\Quiz\\": "src/",
+            "Tests\\": "tests"
+        },
+        "files" : [
+            "src/quiz.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Javad Ezaz",
+            "email": "j.ezaz@azki.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}
