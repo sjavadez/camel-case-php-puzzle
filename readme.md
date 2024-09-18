@@ -1,6 +1,6 @@
-# Quiz Project
+# PHP Puzzle
 
-This project is a coding challenge where students implement the `toCamelCase` function in PHP. The function should convert different string cases like PascalCase, snake_case, kebab-case, or strings with spaces into camelCase. The student's implementation will be automatically tested, and upon passing all tests, they will receive a reward code.
+This puzzle is a coding challenge where students implement the `toCamelCase` function in PHP. The function should convert different string cases like PascalCase, snake_case, kebab-case, or strings with spaces into camelCase. The student's implementation will be automatically tested, and upon passing all tests, they will receive a reward code.
 
 ## Requirements
 
@@ -17,7 +17,7 @@ This project is a coding challenge where students implement the `toCamelCase` fu
     ```
 2. Navigate to the project directory.
     ```bash
-    cd quiz-project
+    cd camel-case-php-puzzle
     ```
 3. Install the required dependencies using Composer.
     ```bash
